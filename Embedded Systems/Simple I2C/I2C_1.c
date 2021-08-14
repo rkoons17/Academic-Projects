@@ -1,3 +1,4 @@
+//Simple I2C Transmission
 #include <msp430.h> 
 #define FLAGS UCA1IFG //Contains the Tx and Rx flags
 #define RXFLAG UCRXIFG //Rx Flag
