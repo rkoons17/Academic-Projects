@@ -1,1 +1,1 @@
-Folder for EGN Class Projects
+This folder contains an EGN Class Project.
