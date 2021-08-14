@@ -1,3 +1,4 @@
+//I2C using the Ambient Light Sensor
 #include <msp430.h> 
 #include <stdio.h>
 #define FLAGS UCA1IFG //Contains the Tx and Rx flags
