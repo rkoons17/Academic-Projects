@@ -1,4 +1,4 @@
-//Lab 8.1: Tx 0-9 to computer in infinite loop, and use keyoard 1/2 for greenLED ON/OFF
+//Lab 8.1: Tx 0-9 to computer in infinite loop, and use keyboard 1/2 for greenLED ON/OFF
 #include <msp430.h> 
 #define FLAGS UCA1IFG //Contains the Tx and Rx flags
 #define RXFLAG UCRXIFG //Rx Flag
