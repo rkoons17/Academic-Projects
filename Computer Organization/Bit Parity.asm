@@ -702,7 +702,7 @@ beq $t6, $t7, twoCheckDoneb #if 6=7, twoDigitCheck is done (unbalanced)
 	la $a0, period #prepare .
 	li $v0, 4 #prepare to print string
 	syscall # print . to screen
-twoCheckDoneb: #finsihed checking all 2 digit combos
+twoCheckDoneb: #finished checking all 2 digit combos
 
 
 
