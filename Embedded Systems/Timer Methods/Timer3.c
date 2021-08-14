@@ -1,7 +1,6 @@
 // Using Timer_A with 2 channels, PWM on LED
 // Using ACLK @ 32 KHz (undivided)
-// Channel 0 toggles the red LED every 0.1 seconds
-// Channel 1 toggles the green LED every 0.5 seconds
+
 #include <msp430fr6989.h>
 #define redLED BIT0 // Red at P1.0
 #define greenLED BIT7 // Green at P9.7
