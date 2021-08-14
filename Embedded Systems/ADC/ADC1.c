@@ -1,4 +1,4 @@
-//Lab 8.4: Alternative UART Config, counting up infintely
+//Lab 10.1: ADC-Horizontal Joystick
 #include <msp430.h> 
 #define FLAGS UCA1IFG //Contains the Tx and Rx flags
 #define RXFLAG UCRXIFG //Rx Flag
