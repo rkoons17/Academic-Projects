@@ -1,4 +1,4 @@
-// Using Timer_A with 2 channels
+// Using Timer_A with 2 channels, PWM on LED
 // Using ACLK @ 32 KHz (undivided)
 // Channel 0 toggles the red LED every 0.1 seconds
 // Channel 1 toggles the green LED every 0.5 seconds
